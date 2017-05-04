@@ -15,7 +15,7 @@ email="ranjit.f.manuel@gmail.com">
 Ranjit Manuel
 </author>
 
-<icon src="icon.png" gap:role="default" />
+<icon src="icon2.png" gap:role="default" />
 
   
 <feature name="http://api.phonegap.com/1.0/geolocation"/>
